@@ -1,0 +1,3 @@
+[submodule "workshop-codeql"]
+	path = workshop-codeql
+	url = https://github.com/Es7evam/workshop-codeql
