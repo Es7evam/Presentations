@@ -1,3 +1,6 @@
 [submodule "workshop-codeql"]
 	path = workshop-codeql
 	url = https://github.com/Es7evam/workshop-codeql
+[submodule "Fuzzing-Presentation"]
+	path = Fuzzing-Presentation
+	url = https://github.com/Es7evam/Fuzzing-Presentation
